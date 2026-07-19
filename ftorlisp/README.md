@@ -5,6 +5,8 @@
 
 ОНО ЗАПУСКАЕТСЯ!!!
 ```bash
+rm main.erl
+
 lake build
 
 ./.lake/build/bin/ftorlisp ./examples/main.ftl \
